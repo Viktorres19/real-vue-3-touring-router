@@ -1,35 +1,31 @@
-# package.json
+# Touring Vue Router Example App
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the Vue 3 application we build step by step in the Touring Vue Router course on Vue Mastery. It's starting code is based on the final code from the Real World Vue 3 course.
 
-## Recommended IDE Setup
+## Project setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+```
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compiles and hot-reloads for development
 
-```sh
-npm run dev
+```
+npm run serve
 ```
 
-### Compile and Minify for Production
+### Compiles and minifies for production
 
-```sh
+```
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Lints and fixes files
 
-```sh
+```
 npm run lint
 ```
+
+### Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
