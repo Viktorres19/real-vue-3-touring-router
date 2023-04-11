@@ -33,7 +33,7 @@ const routes = [
         path: 'edit',
         name: 'EventEdit',
         component: EventEdit
-      },
+      }
     ]
   },
   /*it will be redirect from event to events*/
